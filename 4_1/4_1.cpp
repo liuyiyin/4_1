@@ -7,7 +7,7 @@ using namespace cv;
 
 int main()
 {
-	cv::Mat srcMat = imread("D:\\coin.png", 0);
+	cv::Mat srcMat = imread("D:\\coin.png");
 	cv::Mat src;
 	cv::Mat fushi;
 	cv::Mat pengzhang;
